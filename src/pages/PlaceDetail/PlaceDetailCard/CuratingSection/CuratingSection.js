@@ -1,6 +1,6 @@
 import React from 'react';
-import CuratingItem from './CuratingItem';
-import '../../index.css';
+import CuratingItem from './CuratingItem/CuratingItem';
+import '../../../../index.css';
 
 const CuratingSection = () => {
   return (

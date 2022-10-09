@@ -1,6 +1,6 @@
 import React from 'react';
-import Hashtag from './Hashtag';
-import '../../index.css';
+import Hashtag from '../../Hashtag';
+import '../../../../index.css';
 
 const MainHashtag = () => {
   return (

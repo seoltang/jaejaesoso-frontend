@@ -1,8 +1,8 @@
 import React from 'react';
-import RevisitIntention from './RevisitIntention';
-import SingleLineReview from './SingleLineReview';
-import MainHashtag from './MainHashtag';
-import '../../index.css';
+import RevisitIntention from './RevisitIntention/RevisitIntention';
+import SingleLineReview from './SingleLineReview/SingleLineReview';
+import MainHashtag from './MainHashtag/MainHashtag';
+import '../../../index.css';
 
 const SINGLE_LINE_REVIEW_DATA = [
   {
