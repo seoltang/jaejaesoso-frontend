@@ -8,7 +8,6 @@ module.exports = {
         'theme-teal': '#194350',
         'theme-peach': '#FFC2B4',
         'theme-lightpeach': '#FFEEE9',
-        'theme-mint': '#9DBEB9',
       },
     },
   },

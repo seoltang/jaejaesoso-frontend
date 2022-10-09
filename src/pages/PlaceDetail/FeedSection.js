@@ -14,7 +14,7 @@ const FeedSection = () => {
               src="/images/pink.png"
             />
           </div>
-          <div className="text-gray-500">맛있으면짖는댕댕</div>
+          <div className="text-neutral-500">맛있으면짖는댕댕</div>
         </div>
         <div className="py-2 mb-2">
           아르르를왈왈크르릉크르르르르아르를아르르르왈왈크릉크르릉아르르를왈왈크르릉크르르르르아르를아르르르왈왈크릉크르릉아르르를왈왈크르릉크르르르르아르를아르르르왈왈크릉크르릉아르르를왈왈크르릉크르르르르아르를아르르르왈왈크릉크르릉아르르를왈왈크르릉크르르르르아르를아르르르왈왈크릉크르릉

@@ -5,7 +5,7 @@ import '../../index.css';
 
 const PlaceDetail = () => {
   return (
-    <div className="flex justify-center bg-gray-50">
+    <div className="flex justify-center bg-neutral-50">
       <div className="max-w-7xl px-8 my-8">
         <div className="flex space-x-4">
           <PlaceInfoSection />

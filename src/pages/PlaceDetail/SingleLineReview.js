@@ -13,7 +13,7 @@ const SingleLineReview = ({ content, count, repliedCount }) => {
       />
       <div className="flex space-x-2">
         <div className="grow pl-2 z-10">{content}</div>
-        <div className="pr-2 text-gray-400 z-10">{count}</div>
+        <div className="pr-2 text-neutral-400 z-10">{count}</div>
       </div>
     </div>
   );
