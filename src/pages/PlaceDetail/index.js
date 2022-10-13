@@ -1,6 +1,6 @@
 import React from 'react';
-import PlaceInfoSection from './PlaceInfoSection/PlaceInfoSection';
-import PlaceDetailCard from './PlaceDetailCard/PlaceDetailCard';
+import PlaceInfoSection from './PlaceInfoSection';
+import PlaceDetailCard from './PlaceDetailCard';
 import '../../index.css';
 
 const PlaceDetail = () => {

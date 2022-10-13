@@ -1,9 +1,9 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import NavBar from './components/NavBar';
-import MainFeed from './pages/MainFeed/MainFeed';
-import Login from './pages/Login/Login';
-import PlaceDetail from './pages/PlaceDetail/PlaceDetail';
+import MainFeed from './pages/MainFeed';
+import Login from './pages/Login';
+import PlaceDetail from './pages/PlaceDetail';
 
 function Router() {
   return (
