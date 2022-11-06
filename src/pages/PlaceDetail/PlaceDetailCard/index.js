@@ -1,6 +1,6 @@
 import React from 'react';
-import FeedSection from './FeedSection/FeedSection';
-import CuratingSection from './CuratingSection/CuratingSection';
+import FeedSection from './FeedSection';
+import CuratingSection from './CuratingSection';
 import '../../../index.css';
 
 const PlaceDetailCard = () => {
